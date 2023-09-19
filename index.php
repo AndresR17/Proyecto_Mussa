@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -16,6 +17,7 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -54,28 +56,34 @@
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
+                        <a href="Formulario.php">
                         <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-circle fa-stack-2x text-success"></i>
                             <i class="fas fa-robot fa-stack-1x fa-inverse"></i>
                         </span>
+                        </a>
                         <h4 class="my-3">TORNEO DE ROBOTICA</h4>
                         <p class="text-muted">Es un medio de divulgacion de proyectos orientados a tematicas de investigacion, innovacion y desarollo tecnologico ligado a algunos de los ejes tematicos
                             establecidos: Empresarial, Agroindustrial, Agropecuario, Energias Renovables. </p>
                     </div>
                     <div class="col-md-4">
+                        <a href="Formulario.php">
                         <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+                            <i class="fas fa-circle fa-stack-2x text-success"></i>
+                            <i class="fas fa-computer fa-stack-1x fa-inverse"></i>
                         </span>
+                        </a>
                         <h4 class="my-3">POSTER</h4>
                         <p class="text-muted">Un espacio que reune en un mismo lugar a emprendedores, estudiantes y aprendices con el proposito de visibilizar sus emprendimientos, 
                             negocios o proyectos que cuenten con productos y servicios que puedan ser ofrecidos a la comunidad.</p>
                     </div>
                     <div class="col-md-4">
+                        <a href="Formulario.php">
                         <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                            <i class="fas fa-circle fa-stack-2x text-success"></i>
+                            <i class="fas fa-person fa-stack-1x fa-inverse"></i>
                         </span>
+                    </a>
                         <h4 class="my-3">PONENTE</h4>
                         <p class="text-muted">Este sera el primer torneo de robótica que se desarrolla en la region casanare, el cual busca reunir a las diferentes institucines presentes en el departaento de casanare.</p>
                     </div>
