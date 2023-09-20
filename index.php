@@ -44,7 +44,7 @@
             <div class="container">
                 <div class="masthead-subheading">SEMILLEROS DE INVESTIGACION SENA</div>
                 <div class="masthead-heading text-uppercase">BIENVENIDOS AL <span class="v">VI</span> EVENTO</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#contact">Registrarme!</a>
+               
             </div>
         </header>
         <!-- Services-->
@@ -54,6 +54,8 @@
                     <h2 class="section-heading text-uppercase">Concursos</h2>
                     <h3 class="section-subheading text-muted">Conoce algunos de nuestros concursos.</h3>
                 </div>
+                
+                
                 <div class="row text-center">
                     <div class="col-md-4">
                         <a href="Formulario.php">
@@ -169,7 +171,7 @@
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading"> Semillero 5 </div>
-                                <div class="portfolio-caption-subheading text-muted">Has parte de nuestro proximo semillero</div>
+                                <div class="portfolio-caption-subheading text-muted">Haz parte de nuestro proximo semillero</div>
                             </div>
                         </div>
                     </div>
@@ -184,7 +186,7 @@
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading"> Semillero 6</div>
-                                <div class="portfolio-caption-subheading text-muted">Has parte de nuestro proximo semillero</div>
+                                <div class="portfolio-caption-subheading text-muted">Haz parte de nuestro proximo semillero</div>
                             </div>
                         </div>
                     </div>
@@ -204,7 +206,7 @@
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>2000 - 2010</h4>
+                                <h4></h4>
                                 <h4 class="subheading">Nuestro primer Grupo de investigacion </h4>
                             </div>
                             <div class="timeline-body"><p class="text-muted">Creacion de nuestro primer grupo de investigacion la cual quizo realizar y un avance de riego con tecnologia para grandes cultivos </p></div>
@@ -214,7 +216,7 @@
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>Marzo 2011</h4>
+                                <h4></h4>
                                 <h4 class="subheading">Nuestras primeras competencias a nivel regionales</h4>
                             </div>
                             <div class="timeline-body"><p class="text-muted">empezamos a ver como nuestros grupo de semilleros de investigacion se consolidaban mas en sus proyectos y ganado unos puestos de muy buen nivel</p></div>
@@ -224,20 +226,20 @@
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>Diciembre  2015</h4>
+                                <h4></h4>
                                 <h4 class="subheading">Estrategias de Expansion!</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">creamos estrategias para atarer mas personas a que inicien este bonito sentir que es la investigacion ya que estamos convencidos que la investgacion nos ayudara a encontra nuevas soluciones y a  innovar </p></div>
+                            <div class="timeline-body"><p class="text-muted">creamos estrategias para atraer mas personas a que inicien este bonito sentir que es la investigacion ya que estamos convencidos que la investgacion nos ayudara a encontra nuevas soluciones y a  innovar </p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>Julio 2023</h4>
+                                <h4></h4>
                                 <h4 class="subheading">Evento de robotica </h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">incluimos a aprendices tambien instituciones educativas como lo son colegio y algunas institutos tecnicos universidades y personas del comun las cuals quibusdam
+                            <div class="timeline-body"><p class="text-muted">incluimos a aprendices tambien instituciones educativas como lo son colegios y algunas institutos tecnicos universidades y personas del comun las cuales 
                                 quisieran ser parte de nuestro gran empeño y constancia investigativa.
                             </div>
                     </li>
@@ -286,8 +288,8 @@
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
-                            <h4>Andres Ruiz </h4>
-                            <p class="text-muted">Aprendiz Sena</p>
+                            <h4>Johanna Enid Bautista </h4>
+                            <p class="text-muted">Johanna Enid Bautista</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
@@ -532,7 +534,7 @@
                                     </ul>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Cerrar ventana
                                     </button>
                                 </div>
                             </div>
